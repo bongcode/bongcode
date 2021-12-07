@@ -12,5 +12,6 @@
 
 👀 Contact Me
 - Blog : https://blog.naver.com/sbg1011
+- Blog : https://velog.io/@sbg1011
 
 
