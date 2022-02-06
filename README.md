@@ -11,7 +11,9 @@
 
 👷 완료된 프로젝트
 - 숫자 맞추기게임 / javascript && html && css
+- To Do List / javascript && html && css
 - 나도코딩 게임(공 부수기게임) / Python
+
 
 👀 Contact Me
 - Blog : https://blog.naver.com/sbg1011
